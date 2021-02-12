@@ -1,0 +1,11 @@
+.color-gray {
+    color: gray;
+}
+.rounded-fig {
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2soIBY3b7LdnqUz4eecWzfe8fTzjG0-IcA&usqp=CAU);
+	width: 15vw;
+	height: 15vw;
+	border-radius: 100%;
+	background-position: 100%;
+	background-size: contain;
+}
