@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Brygada 1918', serif;
+}
+
+.container{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.text-color{
+    color: grey;
+}
+
+.rounded{
+    border-radius: 100%;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    float: right;
+}
+
+.container p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-right: 15rem;
+}
