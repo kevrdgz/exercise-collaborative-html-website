@@ -5,7 +5,7 @@
     font-family: 'Brygada 1918', serif;
 }
 
-.container{
+.container1{
     width: 100%;
     max-width: 1000px;
     margin: auto;
@@ -24,9 +24,9 @@
     border-radius: 100%;
 }
 
-img{
-    width: 350px;
-    height: 350px;
+.imagerounded {
+    width: 250px;
+    height: 250px;
     border-radius: 100%;
     float: right;
 }
